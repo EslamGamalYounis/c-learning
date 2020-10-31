@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603629945 source:f:\iti\codeblocks source\c projects\lab6.readandwriteusingpointer\main.c
+	<stdio.h>
+	<stdlib.h>
+
