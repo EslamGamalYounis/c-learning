@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603718786 source:f:\iti\codeblocks source\c projects\lab7.structemployeewithpointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

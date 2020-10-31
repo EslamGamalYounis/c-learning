@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603709802 source:f:\iti\codeblocks source\c projects\lab7.recursive fun\main.c
+	<stdio.h>
+	<stdlib.h>
+

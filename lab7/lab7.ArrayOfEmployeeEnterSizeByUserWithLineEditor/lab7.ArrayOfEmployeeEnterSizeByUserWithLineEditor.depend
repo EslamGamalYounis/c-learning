@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603749691 source:f:\iti\codeblocks source\c projects\lab7.arrayofemployeeentersizebyuserwithlineeditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
