@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603283798 source:f:\iti\codeblocks source\c projects\lab4.reversestring\main.c
+	<stdio.h>
+	<stdlib.h>
+

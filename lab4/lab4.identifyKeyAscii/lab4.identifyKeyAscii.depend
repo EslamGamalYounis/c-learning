@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603286584 source:f:\iti\codeblocks source\c projects\lab4.identifykeyascii\main.c
+	<stdio.h>
+	<stdlib.h>
+
