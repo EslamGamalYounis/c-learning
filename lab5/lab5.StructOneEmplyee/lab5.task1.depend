@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603364054 source:f:\iti\codeblocks source\c projects\lab5.task1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

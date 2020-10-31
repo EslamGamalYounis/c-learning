@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603565893 source:f:\iti\codeblocks source\c projects\lab5.testbuiltinfun\main.c
+	<stdio.h>
+	<stdlib.h>
+
